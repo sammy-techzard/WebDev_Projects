@@ -1,20 +1,29 @@
-# WebDev_Projects
-This repository contains a collection of projects showcasing my skills in PHP, HTML, JavaScript, and CSS. Each project demonstrates various aspects of web development and highlights different functionalities and techniques.
-## Projects Overview
+# Moviebite - Your Movie Information Hub
 
-### 1. E-commerce Website
-- A full-fledged e-commerce platform built with PHP, MySQL, HTML, CSS, and JavaScript.
+Moviebite is a web application that serves as a movie information hub, allowing users to search and explore movies fetched from the YTS API. It provides detailed information about movies along with their torrents, utilizing data sourced from IMDB.
 
-### 2. Portfolio Website
-- Personal portfolio showcasing my projects and skills using HTML, CSS, and JavaScript.
+## Demo
 
-### 3. Task Manager Application
-- Web-based task manager using PHP and JavaScript for task management and tracking.
+Check out the live demo of Moviebite [here](http://moviebite.000.pe/).
 
-### 4. Interactive Landing Page
-- Engaging landing page with interactive elements crafted with HTML, CSS, and JavaScript.
+## Features
 
-### 5. Blogging Platform
-- Simple blogging platform developed using PHP, MySQL, HTML, and CSS.
+- Search for movies by title
+- Display detailed movie information including synopsis, ratings, genres, and release year
+- View available torrents for movies
+- Responsive and user-friendly design
 
-Each project folder contains detailed documentation on how to run and explore the respective project. Feel free to check them out and explore the code!
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- YTS API
+
+## Installation
+
+To set up the Moviebite locally:
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/sammy-techzard/Moviebite.git
